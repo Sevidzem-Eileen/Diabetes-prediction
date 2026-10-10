@@ -24,6 +24,19 @@ analysis and machine learning techniques.
 - Model evalution
 - Feature importance
 
+## Data set description
+Number of participants: 768
+Variable Description
+Age-Age of participant
+Glucose-Plasma glucose level
+Insulin-Insulin level
+Pregnancies-Number of pregnancies
+BMI-Body mass index
+BloodPressure-Blood pressure
+Skin thickness- triceps skin thickness
+Diabetes pedigree function- 
+Diabetes-Diabetes status, 500 positive, 268 negative cases
+
                                                                
 ## Prerequisite Tools
 - R
@@ -50,5 +63,8 @@ Logistic regression, cross validation and pruning
 Test the model on a new dataset
 Analysis of ROC-AUC
 8. Explore important features 
+
+## Results 
+
 ## Project Status
 Ongoing.
