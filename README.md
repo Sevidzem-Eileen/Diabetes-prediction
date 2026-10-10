@@ -23,10 +23,11 @@ analysis and machine learning techniques.
 - Cross-validation
 - Model evalution
 - Feature importance
+## Data set 
 
-## Data set description
+
+## Variable description
 Number of participants: 768
-Variable Description
 Age-Age of participant
 Glucose-Plasma glucose level
 Insulin-Insulin level
@@ -65,6 +66,16 @@ Analysis of ROC-AUC
 8. Explore important features 
 
 ## Results 
+The notebook contains experimemts, experimental results and visualisations
+
+## Limitations
+- The analysis is based on an existing dataset and therefore depends on the quality of the original data.
+- Missing or implausible values may affect the accuracy and reliability of the analysis and model predictions
+- The models show predictive associations and should not be interpreted as establishing causation.
+- External validation using an independent dataset was not performed.
+
+## Conclusion
+Further work could include comparing alternative classification algorithms, refining predictor selection, and validating the model on independent datasets.
 
 ## Project Status
 Ongoing.
